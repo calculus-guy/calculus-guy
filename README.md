@@ -2,8 +2,6 @@
 
 > **Full‑Stack Software Engineer** • Backend-first • Scalable systems • Video & realtime platforms
 
-[Portfolio](https://abdullateef.online) • [GitHub](https://github.com/calculus-guy) • [LinkedIn](https://www.linkedin.com/in/abdul-lateef-sakariyau-38289a383)
-
 ---
 
 ### 👋 Quick intro
