@@ -56,16 +56,6 @@ I build backend systems that scale: payments, streaming workflows, realtime clas
 
 ---
 
-### ⭐ GitHub stats & contribution
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=calculus-guy&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calculus-guy&show_icons=true&count_private=true&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calculus-guy&show_icons=true&theme=github_dark)
-
----
-
 ### 📂 Featured projects
 
 #### 1) AFRIMA — Adjudication Portal (Backend)
