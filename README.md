@@ -1,10 +1,8 @@
-# Abdul-Lateef Sakariyau
-
 ![Hero](https://capsule-render.vercel.app/api?type=waving\&color=0:111827,100:1e3a8a\&height=200\&text=Abdul-Lateef+Sakariyau\&fontSize=40)
 
 > **Full‑Stack Software Engineer** • Backend-first • Scalable systems • Video & realtime platforms
 
-[🌐 Portfolio](https://abdullateef.online) • [GitHub](https://github.com/calculus-guy) • [LinkedIn](https://www.linkedin.com/in/abdul-lateef-sakariyau-38289a383)
+[Portfolio](https://abdullateef.online) • [GitHub](https://github.com/calculus-guy) • [LinkedIn](https://www.linkedin.com/in/abdul-lateef-sakariyau-38289a383)
 
 ---
 
@@ -74,23 +72,18 @@ I build backend systems that scale: payments, streaming workflows, realtime clas
 
 * Role: Lead backend engineer
 * Highlights: aggregation & ranking pipelines, Excel/PDF exports, pending-approval workflow, p95 ≤ 1s under load.
-* Repo: `[https://github.com/calculus-guy/afrima-adjudication](https://github.com/calculus-guy/Afrima-JurorPortal)`
 
 #### 2) Yupacgo — Investor Platform (Backend)
 
-*Role: Senior Backend Engineer
-Highlights: personalized onboarding, authentication, rule-based recommendation engine, virtual portfolios, multi-provider market data integrations, caching & rate‑limit protection (≈60% API call reduction), sub‑second response times through query optimization.
-* Repo: `[https://github.com/calculus-guy/Yupacgo_Backend](https://github.com/calculus-guy/Yupacgo_Backend)`
+* Role: Senior Backend Engineer
+* Highlights: personalized onboarding, rule-based recommendation engine, virtual portfolios, multi-provider market data integrations, caching & rate‑limit protection (≈60% API call reduction), sub‑second response times through query optimization.
 
 #### 3) Learning247 / aahbibi (Livestreaming)
 
 * Role: Senior Backend Developer (VOD + live + payments)
 * Highlights: Wallet/ledger system, idempotent payments, live-class lifecycle, recording & replay support.
-* Repo: `[https://github.com/calculus-guy/aahbibi](https://github.com/calculus-guy/Learning247-creators-platform-backend)`
-
 
 #### 4) DFX — Multi-Service Business Platform (Backend)
 
 * Role: Backend Engineer
-* Highlights: backend powering IT training enrollment, gadget e-commerce, and agency leads; JWT-based authentication with role access; Paystack payments for courses and products; admin management for courses, products, orders, and student materials; secure PDF uploads and email notifications; modular, scalable architecture.
-* Repo: `[https://github.com/your-username/dfx-backend](https://github.com/calculus-guy/DFXLimited-Backend)`
+* Highlights: multi-service backend (IT training, e-commerce, agency leads), JWT role-based auth, Paystack payments, admin content & order management, secure PDF uploads with access control.
