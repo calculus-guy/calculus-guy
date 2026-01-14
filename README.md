@@ -15,7 +15,7 @@ I build backend systems that scale: payments, streaming workflows, realtime clas
 * Leading backend work on **Yupacgo Investor Platform** (recommendation engine, API, caching)
 * Maintaining the **AFRIMA Adjudication Portal** (aggregation pipelines, exports, audit logs)
 * Building creator-first livestreaming features for **aahbibi** (VOD + live + payments)
-
+ 
 ---
 
 ### 🛠️ Tech stack
