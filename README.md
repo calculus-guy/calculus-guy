@@ -4,7 +4,7 @@
 
 ---
 
-### 👋 Quick intro
+### 👋 Quick intro 
 
 I build backend systems that scale: payments, streaming workflows, realtime classrooms, and robust API platforms. I ship clean, production-ready services using Node.js/Express, PostgreSQL, Redis, and streaming integrations — with a strong focus on reliability, performance, and developer ergonomics.
 
