@@ -13,7 +13,7 @@ I build backend systems that scale: payments, streaming workflows, realtime clas
 ### 🔭 Currently 
 
 * Leading backend work on **Yupacgo Investor Platform** (recommendation engine, API, caching)
-* Maintaining the **AFRIMA Adjudication Portal** (aggregation pipelines, exports, audit logs)
+* Maintaining the **AFRIMA Adjudication Portal** (aggregation pipelines, exports, audit logs) 
 * Building creator-first livestreaming features for **hallos** (VOD + live + payments)
  
 ---
