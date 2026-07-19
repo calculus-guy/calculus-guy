@@ -154,7 +154,7 @@ Multi-tenant staffing across NHS trusts. Short-lived single-use **trust-selectio
 [⚖️ AFRIMA Jury Portal](https://www.afrimajury.com) &nbsp;·&nbsp;
 [📈 Yupacgo](https://www.yupacgo.com) &nbsp;·&nbsp;
 [🎥 Hallos](https://www.hallos.net) &nbsp;·&nbsp;
-[💼 DFX Limited](https://www.dfxlimited.com) &nbsp;·&nbsp;
+[💼 DFX Limited](https://www.dfxlimited.com) &nbsp;
 
 ---
 
