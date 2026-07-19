@@ -155,7 +155,6 @@ Multi-tenant staffing across NHS trusts. Short-lived single-use **trust-selectio
 [📈 Yupacgo](https://www.yupacgo.com) &nbsp;·&nbsp;
 [🎥 Hallos](https://www.hallos.net) &nbsp;·&nbsp;
 [💼 DFX Limited](https://www.dfxlimited.com) &nbsp;·&nbsp;
-[💰 FinCalc](https://fin-calc-beta.vercel.app)
 
 ---
 
