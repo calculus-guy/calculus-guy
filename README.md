@@ -154,7 +154,8 @@ Multi-tenant staffing across NHS trusts. Short-lived single-use **trust-selectio
 [⚖️ AFRIMA Jury Portal](https://www.afrimajury.com) &nbsp;·&nbsp;
 [📈 Yupacgo](https://www.yupacgo.com) &nbsp;·&nbsp;
 [🎥 Hallos](https://www.hallos.net) &nbsp;·&nbsp;
-[💼 DFX Limited](https://www.dfxlimited.com) &nbsp;
+[💼 DFX Limited](https://www.dfxlimited.com) &nbsp;·&nbsp;
+[💰 FinCalc](https://fin-calc-beta.vercel.app)
 
 ---
 
@@ -183,8 +184,8 @@ Multi-tenant staffing across NHS trusts. Short-lived single-use **trust-selectio
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=calculus-guy&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=7C93FF&icon_color=7C93FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calculus-guy&layout=compact&langs_count=8&hide_border=true&title_color=7C93FF&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-seven-lake-25.vercel.app/api?username=calculus-guy&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=7C93FF&icon_color=7C93FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-seven-lake-25.vercel.app/api/top-langs/?username=calculus-guy&layout=compact&langs_count=8&hide_border=true&title_color=7C93FF&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" />
 
 <br/>
 
@@ -207,6 +208,8 @@ Multi-tenant staffing across NHS trusts. Short-lived single-use **trust-selectio
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/calculus-guy/calculus-guy/output/github-contribution-grid-snake.svg" />
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/calculus-guy/calculus-guy/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<sub>Requires the Snake GitHub Action (workflow provided below) — it'll be blank until the action runs once.</sub>
 
 </div>
 
