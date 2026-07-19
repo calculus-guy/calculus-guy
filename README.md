@@ -208,8 +208,6 @@ Multi-tenant staffing across NHS trusts. Short-lived single-use **trust-selectio
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/calculus-guy/calculus-guy/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<sub>Requires the Snake GitHub Action (workflow provided below) — it'll be blank until the action runs once.</sub>
-
 </div>
 
 ---
