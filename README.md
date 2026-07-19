@@ -9,7 +9,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:2f4bd6&height=220&section=header&text=Abdul-Lateef%20Sakariyau&fontSize=42&fontColor=ffffff&fontAlignY=34&desc=Senior%20Software%20Engineer%20%E2%80%94%20Backend%20%26%20Mobile&descSize=18&descAlignY=56" width="100%" alt="Abdul-Lateef Sakariyau" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:2f4bd6&height=220&section=header&text=Abdul-Lateef%20Sakariyau&fontSize=42&fontColor=ffffff&fontAlignY=34&desc=Senior%20Software%20Engineer%20%E2%80%94%20Backend%20%2F%20Mobile&descSize=18&descAlignY=56" width="100%" alt="Abdul-Lateef Sakariyau" />
 
 <a href="https://abdullateef.online">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7C93FF&center=true&vCenter=true&width=720&lines=Building+systems+where+correctness+costs+money;Multi-currency+payment+ledgers+%C2%B7+multi-tenant+SaaS;14+published+mobile+apps+%C2%B7+iOS+%26+Android;Node.js+%C2%B7+NestJS+%C2%B7+React+Native+%C2%B7+C%23%2F.NET" alt="Typing SVG" />
@@ -194,10 +194,6 @@ Multi-tenant staffing across NHS trusts. Short-lived single-use **trust-selectio
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=calculus-guy&bg_color=0D1117&color=7C93FF&line=7C93FF&point=C9D1D9&area=true&hide_border=true" alt="Activity graph" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=calculus-guy&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 </div>
 
